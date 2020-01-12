@@ -537,6 +537,13 @@ http://127.0.0.1:6878/ace/getstream?id=57f1d96d5a034c5ab5921d3b68fe1aab10fac5b3&
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="history" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_40411600_1380207747m.png“, History HD
 http://185.93.3.83:5010/play/a00v
 
+#EXTINF:-1 group-title="Pažintiniai",History HD
+http://mytvonline.nl:80/live/TqyXTMVp48/6fr1g1RiFG/44215.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai",History HD
+http://mytvonline.nl:80/live/TqyXTMVp48/6fr1g1RiFG/44216.m3u8
+
+
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="dtx" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_65886400_1540726534m.png“, DTX
 http://94.177.136.29:7478/play/a03b
 
