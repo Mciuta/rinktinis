@@ -366,22 +366,22 @@ http://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8 
 
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_85261500_1575362174m.png“,3Sports HD
+#EXTINF:-1 group-title="Sportas",3Sport HD
 http://ch01.spr24.net/793/mpegts?token=8s6KK4RnhdAZ5t
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+#EXTINF:-1 group-title="Sportas",3Sport HD
 http://fr01.spr24.net/793/index.m3u8?token=rCEqTFvRhtEvXt 
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+#EXTINF:-1 group-title="Sportas",3Sport HD
 http://nl01.spr24.net/793/mpegts?token=8s6KK4RnhdAZ5t
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+#EXTINF:-1 group-title="Sportas",3Sport HD
 http://fr01.spr24.net/793/mpegts?token=8s6KK4RnhdAZ5t
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+#EXTINF:-1 group-title="Sportas",3Sport HD
 http://ch01.spr24.net/793/index.m3u8?token=rCEqTFvRhtEvXt 
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+#EXTINF:-1 group-title="Sportas",3Sport HD
 http://nl01.spr24.net/793/index.m3u8?token=rCEqTFvRhtEvXt 
 
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports2" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“, 3Sports 2
+#EXTINF:-1 group-title="Sportas", 3Sport 2
 http://ch01.spr24.net/790/mpegts?token=8s6KK4RnhdAZ5t
-#EXTINF:-1 group-title="Sportas" tvg-id="3Sports2" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“, 3Sports 2
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sport 2" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“, 3Sport 2
 http://fr01.spr24.net/790/index.m3u8?token=rCEqTFvRhtEvXt 
 
 #EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_336_1467180549.png“, Sport1 HD
