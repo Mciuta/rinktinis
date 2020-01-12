@@ -1,0 +1,686 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://nl01.spr24.net/19159/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://fr01.spr24.net/19159/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://nl01.spr24.net/789/mpegts?token=8s6KK4RnhdAZ5t
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://88.216.8.122:8080/lrt_televizija/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://127.0.0.1:6878/ace/getstream?id=8d59aef51c7637e4bf1f46ec4bb56e37888d3e68&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://88.119.220.3/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://213.252.252.17/live/eds/LRT/HLS_encr/LRT.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://fr01.spr24.net/789/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT+ HD
+http://nl01.spr24.net/791/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT+ HD
+http://fr01.spr24.net/791/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_307_1538382450.png", LRT+
+http://213.252.252.17/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_307_1538382450.png", LRT+
+http://cdn2.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_307_1538382450.png", LRT+
+http://fr01.spr24.net/19161/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Lituanica" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_325_1421217568.png", LRT Lituanica
+http://cdn7.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Lituanica" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_325_1421217568.png", LRT Lituanica
+http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Lituanica" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_325_1421217568.png", LRT Lituanica
+http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Lituanica" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_325_1421217568.png", LRT Lituanica
+http://213.252.252.17/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Lituanica" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_325_1421217568.png", LRT Lituanica
+http://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Info TV" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_34085600_1418495360m.png",Info TV HD 
+http://fr01.spr24.net/782/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Info TV" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_34085600_1418495360m.png",Info TV HD 
+http://nl01.spr24.net/782/mpegts?token=8s6KK4RnhdAZ5t
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6b/LNK_HD.png",LNK HD
+http://fr01.spr24.net/19190/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6b/LNK_HD.png",LNK HD
+http://fr01.spr24.net/19190/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://fr01.spr24.net/781/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://127.0.0.1:6878/ace/getstream?id=74e7f37525aa99fd42e5e04c3f7187c59bf31c9e&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://fr01.spr24.net/781/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/tv3hd.png",TV3 HD
+http://fr01.spr24.net/786/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/tv3hd.png",TV3 HD
+http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/tv3hd.png",TV3 HD
+http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/tv3hd.png",TV3 HD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/tv3hd.png",TV3 HD
+http://fr01.spr24.net/786/index.m3u8?token=rCEqTFvRhtEvXt
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://fr01.spr24.net/17865/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://127.0.0.1:6878/ace/getstream?id=9f943fbbe8bc4802a8999d048e7fb99a9e2bbe5c&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://213.252.252.17/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://fr01.spr24.net/17865/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BTV_HD.png/900px-BTV_HD.png",BTV HD
+http://fr01.spr24.net/19208/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BTV_HD.png/900px-BTV_HD.png",BTV HD
+http://fr01.spr24.net/19208/index.m3u8?token=rCEqTFvRhtEvXt 
+ 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_305_1520956000.png",BTV
+http://fr01.spr24.net/788/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_305_1520956000.png",BTV
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_305_1520956000.png",BTV
+http://127.0.0.1:6878/ace/getstream?id=ecd88ef7945c8532a3136741aa02589fa72f598f&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_305_1520956000.png",BTV
+http://fr01.spr24.net/788/index.m3u8?token=rCEqTFvRhtEvXt  
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://satsis.info/uploads/posts/2019-01/1548844042_www.satsis.info__tv6-hd.jpg",TV6 HD
+http://fr01.spr24.net/787/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://satsis.info/uploads/posts/2019-01/1548844042_www.satsis.info__tv6-hd.jpg",TV6 HD
+http://fr01.spr24.net/787/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://nl01.spr24.net/17866/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://127.0.0.1:6878/ace/getstream?id=dcac3030bdafdc7847945ec9d2276d3ef4fc40ba&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://fr01.spr24.net/17866/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/TV1_HD.png",TV1 HD
+http://nl01.spr24.net/785/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/TV1_HD.png",TV1 HD
+http://fr01.spr24.net/785/index.m3u8?token=rCEqTFvRhtEvXt
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_302_1421217703.png",TV1
+http://nl01.spr24.net/785/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_302_1421217703.png",TV1
+http://fr01.spr24.net/785/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_302_1421217703.png",TV1
+http://88.216.8.122:8080/tv1/index.m3u8
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Lietuvos ryto televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_318_1539885851.png",Lietuvos Rytas
+http://nl01.spr24.net/780/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Lietuvos ryto televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_318_1539885851.png",Lietuvos Rytas
+http://fr01.spr24.net/780/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png.webp",TV8 HD
+http://nl01.spr24.net/784/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png.webp",TV8 HD
+http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png.webp",TV8 HD
+http://fr01.spr24.net/784/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://nl01.spr24.net/17872/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://127.0.0.1:6878/ace/getstream?id=e7ff64dadbf92a40d205fc71edb8e2eaded5cb88&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://fr01.spr24.net/17872/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Info TV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_326_1467119944.png",Info TV HD http://fr01.spr24.net/782/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Info TV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_326_1467119944.png",Info TV HD http://nl01.spr24.net/782/mpegts?token=8s6KK4RnhdAZ5t
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Auksinis" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_308_1418375359.png", Balticum Auksinis
+http://nl01.spr24.net/792/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Auksinis" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_308_1418375359.png", Balticum Auksinis
+http://fr01.spr24.net/792/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Platinum" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_998_1490874616.png", Balticum Platinum
+http://nl01.spr24.net/19172/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Platinum" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_998_1490874616.png", Balticum Platinum
+http://fr01.spr24.net/19172/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_977_1490875718.png", TV1000
+http://cdn7.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_977_1490875718.png", TV1000
+http://88.119.220.3/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_977_1490875718.png", TV1000
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8 
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_977_1490875718.png", TV1000
+http://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
+http://cdn7.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
+http://88.119.220.3/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
+http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8 
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
+http://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://cdn7.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8 
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://nl01.spr24.net/19173/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://fr01.spr24.net/19173/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Fox EE" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox EE
+https://88.119.220.3/live/eds/FOX/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="Fox EE" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox EE
+http://cdn7.tvplayhome.lt/live/eds/FOX/HLS_encr/index.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Fox LT" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox LT
+http://213.252.252.17/live/eds/FOX_LT/HLS_encr/FOX_LT.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="SUNDANCE TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sundance.png",SUNDANCE TV HD
+http://89.187.170.171:8080/SUNDANCE/mono.m3u8?token=ADM1-1575133015-2e4f36ea26afd08e9147422acd2a58320c67f9f1
+
+#EXTINF:-1 group-title="Filmai" tvg-id="AMC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/amc.png",AMC HD
+http://89.187.170.171:8080/AMC/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png",HBO HD
+http://89.187.170.171:8080/HBO/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Comedy Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png",Comedy Central HD
+http://89.187.170.171:8080/Comedy_Central/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="IFC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ifc.png",IFC HD
+http://89.187.170.171:8080/IFC/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Hallmark" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hallmark.png",Hallmark HD
+http://89.187.170.171:8080/Hallmark/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Epic Drama" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_31048800_1539756731m.png", Epic Drama
+http://cdn7.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="Epic Drama" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_31048800_1539756731m.png", Epic Drama
+http://88.119.220.3/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="Epic Drama" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_31048800_1539756731m.png", Epic Drama
+http://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id=" " tvg-logo="https://cdn.imgbin.com/10/5/6/imgbin-logo-the-movies-hollywood-film-premiere-senior-scams-kqp6fL5rLjEFQa4HP9C5gDfBW.jpg", 24/7 Hollywood Movies 1
+http://127.0.0.1:6878/ace/getstream?id=b7c1b501bcd27df0430ae609ca5028223248e744&.mp4
+
+#EXTINF:-1 group-title="Filmai" tvg-id=" " tvg-logo="https://cdn.imgbin.com/10/5/6/imgbin-logo-the-movies-hollywood-film-premiere-senior-scams-kqp6fL5rLjEFQa4HP9C5gDfBW.jpg", 24/7 Hollywood Movies 2
+http://127.0.0.1:6878/ace/getstream?id=71d6d1ea6d7597ab7cb84db1692666fbc65db010&.mp4
+
+#EXTINF:-1 group-title="Filmai" tvg-id=" " tvg-logo="https://cdn.imgbin.com/23/10/14/imgbin-friends-logo-friends-logo-uR64a2xs9vEiSy55qwubjVEgq.jpg", Friends
+http://127.0.0.1:6878/ace/getstream?id=43c600c26c9de956f8392a425901a6aa1046b0ed&.mp4
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Paramount" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/paramount.png", Paramount HD
+http://89.187.170.171:8080/Paramount/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png", Showtime 2 HD
+http://89.187.170.171:8080/Showtime_2/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime next" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9666/showtimenexttv.png", Showtime Next HD
+http://89.187.170.171:8080/Showtime_Next/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime extreme" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87368/showtimeextremetv_colordark.png",Showtime Extreme HD
+http://89.187.170.171:8080/Showtime_Extreme/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime Showcase" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/SHOWTIMESHOWCASE.png",Showtime Showcase HD
+http://89.187.170.171:8080/Showtime_Showcase/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="SonyMovies" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_957_1490876156.png", SonyMovies HD
+http://89.187.170.171:8080/SonyMovies/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Starz Edge" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/2514/starzedgetelevision.png", Starz Edge HD
+http://89.187.170.171:8080/Starz_Edge/mono.m3u8
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_88_1467110641.png",Boomerang EN
+http://89.187.170.171:8080/Boomerang/mono.m3u8
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_88_1467110641.png",Boomerang Ru
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone LT
+http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone LT
+http://cdn7.tvplayhome.lt/live/eds/Kidzone/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone LT
+http://88.119.220.3/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone LT
+http://213.252.252.17/live/eds/Kidzone/HLS_encr/Kidzone.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone LT
+http://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/index.m3u8
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
+http://cdn7.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
+https://88.119.220.3/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
+http://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Channel" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_905_1491379607.png“,Disney Channel
+http://88.119.220.3/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Channel" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_905_1491379607.png“,Disney Channel
+http://cdn7.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Channel" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_905_1491379607.png“,Disney Channel
+http://213.252.252.17/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Channel" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_905_1491379607.png“,Disney Channel
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
+http://cdn7.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
+http://88.119.220.3/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
+http://213.252.252.17/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
+http://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“ https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
+http://cdn7.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“ https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
+http://88.119.220.3/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“ https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“ https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
+http://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“ https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“https://img.favpng.com/3/3/15/nickelodeon-logo-television-show-nick-jr-png-favpng-v10kmKSnLJDV6YGnYF6ekDNfZ.jpg“,Nick HD
+http://89.187.170.171:8080/Nick/mono.m3u8
+
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“, NickToons HD
+http://89.187.170.171:8080/Nick_Toons/mono.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
+http://cdn7.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
+http://88.119.220.3/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
+http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
+http://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+http://cdn7.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+http://88.119.220.3/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+http://213.252.252.17/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+http://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8 
+
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+http://ch01.spr24.net/793/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+http://fr01.spr24.net/793/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+http://nl01.spr24.net/793/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+http://fr01.spr24.net/793/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+http://ch01.spr24.net/793/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“,3Sports HD
+http://nl01.spr24.net/793/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports2" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“, 3Sports 2
+http://ch01.spr24.net/790/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Sportas" tvg-id="3Sports2" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_919_1575344906.png“, 3Sports 2
+http://fr01.spr24.net/790/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_336_1467180549.png“, Sport1 HD
+http://ch01.spr24.net/794/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_336_1467180549.png“, Sport1 HD
+http://fr01.spr24.net/794/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_336_1467180549.png“, Sport1 HD
+http://nl01.spr24.net/794/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_336_1467180549.png“, Sport1 HD
+http://fr01.spr24.net/794/mpegts?token=8s6KK4RnhdAZ5t
+
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+http://88.216.8.122:8080/sport_1/index.m3u8
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+https://88.119.220.3/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8 
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+http://213.252.252.17/live/eds/Sport1/HLS_encr/Sport1.m3u8 
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+http://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+http://fr01.spr24.net/19194/index.m3u8?token=rCEqTFvRhtEvXt 
+#EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“http://tvinternetu.lt/wp-content/uploads/2016/05/sport1-logo.png“, Sport1
+http://ch01.spr24.net/19194/mpegts?token=8s6KK4RnhdAZ5t
+
+#EXTINF:-1 group-title="Sportas" tvg-id="red bull" tvg-logo=“http://www.rallyturkey.com/wp-content/uploads/2018/01/Red-Bull-TV-logo.png“,RED BULL TV (1)
+http://127.0.0.1:6878/ace/getstream?id=a0270364634d9c49279ba61ae3d8467809fb7095&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="red bull" tvg-logo=“http://www.rallyturkey.com/wp-content/uploads/2018/01/Red-Bull-TV-logo.png“,RED BULL TV (2)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8 
+
+#EXTINF:-1 group-title="Sportas" tvg-id="Eleven Sports" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png“,Eleven Sports HD
+http://89.187.170.171:8080/Eleven_Sports/mono.m3u8
+
+#EXTINF:-1 group-title="Sportas" tvg-id="WWENetwork" tvg-logo=“https://en.wikipedia.org/wiki/WWE_Network#/media/File:WWE_Network_logo.svg“,WWENetwork HD
+http://89.187.170.171:8080/WWENetwork/mono.m3u8
+
+#EXTINF:-1 group-title="Sportas" tvg-id="ESPN_1" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/ESPN_RED.png“,ESPN_1 HD
+http://89.187.170.171:8080/ESPN_1/mono.m3u8
+
+#EXTINF:-1 group-title="Sportas" tvg-id="ESPN_2" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/ESPN2.png“,ESPN_2 HD
+http://89.187.170.171:8080/ESPN_2/mono.m3u8
+
+#EXTINF:-1 group-title="Sportas" tvg-id="Fox_Sports_1" tvg-logo=“ https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/44668/foxsportsoneus_colordark.png“,Fox_Sports_1 HD
+http://89.187.170.171:8080/Fox_Sports_1/mono.m3u8
+
+#EXTINF:-1 group-title="Sportas" tvg-id="Fox_Sports_2" tvg-logo=“ https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/44664/foxsports2ustv_colordark.png“,Fox_Sports_2 HD
+http://89.187.170.171:8080/Fox_Sports_2/mono.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="360 TuneBox" tvg-logo=“https://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png“, 360 TuneBox
+http://88.216.8.122:8080/360tunebox/index.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_68_1418121432.png“,VH1 HD
+http://89.187.170.171:8080/VH1/mono.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/vh1.png“,VH1
+http://cdn7.tvplayhome.lt/live/eds/VH1/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/vh1.png“,VH1
+http://127.0.0.1:6878/ace/getstream?id=8cb69525386533f81c042f9e02d254f01b71d00c&.mp4
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/vh1.png“,VH1
+http://88.119.220.3/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/vh1.png“,VH1
+http://213.252.252.17/live/eds/VH1/HLS_encr/VH1.m3u8 
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/vh1.png“,VH1
+http://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1 classic" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_57149400_1394182773m.png“,VH1 Classic
+http://127.0.0.1:6878/ace/getstream?id=185ee5f2e98278437e946fc09e26ecee75b446fd&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hits" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_92122600_1380259796m.png“,MTV Hits
+http://cdn7.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hits" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_92122600_1380259796m.png“,MTV Hits
+http://88.119.220.3/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hits" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_92122600_1380259796m.png“,MTV Hits
+http://213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8 
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hits" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_92122600_1380259796m.png“,MTV Hits
+http://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_live" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/mtv_live.png“,MTV Live HD
+http://89.187.170.171:8080/MTV_LIVE/mono.m3u8?token=ADM1-1575133015-2e4f36ea26afd08e9147422acd2a58320c67f9f1
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hd",MTV HD (1)
+http://127.0.0.1:6878/ace/getstream?id=1820772ad70a3f4ead6adf5dff84e754d8da7907&.mp4
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hd",MTV HD (1)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8 
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hd",MTV HD (1)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1 
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_hd",MTV HD (2)
+http://89.187.170.171:8080/MTV/mono.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_classic" tvg-logo=“https://en.wikipedia.org/wiki/MTV_Classic_(British_and_Irish_TV_channel)#/media/File:MTV_Classic_2017_logo.svg“,MTV Classic
+http://89.187.170.171:8080/MTV_Classic/mono.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_dance" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_71_1491913133.png“,MTV Dance
+http://127.0.0.1:6878/ace/getstream?id=4e60d6dd3d902a875d5170d2fc11deda289d018c&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv_rock" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_77_1491913315.png“,MTV Rocks
+http://127.0.0.1:6878/ace/getstream?id=64552581e436b397d9d479c4caac362339fef698&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Europa Plus" tvg-logo=“https://satsis.info/uploads/posts/2018-03/1521450918_www.satsis.info__europa-plus-tv.jpg“,Europa Plus TV
+http://178.124.183.12:80/hls/BHH8EKRXPO/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Muzika" tvg-id="Europa Plus" tvg-logo=“https://satsis.info/uploads/posts/2018-03/1521450918_www.satsis.info__europa-plus-tv.jpg“,Europa Plus TV
+http://127.0.0.1:6878/ace/getstream?id=54254783e6f89ebd73bd824fc40118f6f2f016f1&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="My Hits" tvg-logo=“https://cdn-radiotime-logos.tunein.com/s9381q.png“, My Hits
+http://213.252.252.17/live/eds/My_Hits/HLS_encr/My_Hits.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Djing TV" tvg-logo=“https://www.parsatv.com/index_files/channels/djing.png“,Djing TV HD
+http://127.0.0.1:6878/ace/getstream?id=b3c332baec3b520180ca333bec7ba35f31ecd23d&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="viva" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/6/69/VIVA_Logo_black.svg“,VIVA PL
+http://127.0.0.1:6878/ace/getstream?id=82ca3964dc41b9e49fa0f485256b1e6b627119f7&.mp4
+#EXTINF:-1 group-title="Muzika" tvg-id="viva" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/6/69/VIVA_Logo_black.svg“,VIVA PL
+http://127.0.0.1:6878/ace/getstream?id=513f1725d575f61ac1612bc99151cc1f77339c2e&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Radio 51" tvg-logo=“https://mytuner.global.ssl.fastly.net/media/tvos_radios/dr4z3umuxbjr.png“,Radio 51 TV
+http://127.0.0.1:6878/ace/getstream?id=431ac33340438f9d6be3a8d893fe7efa2d7e4d95&.mp4 
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Bridge deluxe" tvg-logo=“https://www.cableman.ru/sites/default/files/bridjetvdeluxe.png“,Bridge DeluxeHD
+http://127.0.0.1:6878/ace/getstream?id=88e92f885eb068d713d3632acdfdd4ed1e797ba0&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="UTV" tvg-logo=“https://logos.fandom.com/wiki/UTV_(Romania)?file=Photo-1467302546.jpg“,UTV
+http://127.0.0.1:6878/ace/getstream?id=45fa51cdde2bd37f55206a9a3814afc421e76fe8&.mp4
+#EXTINF:-1 group-title="Muzika" tvg-id="UTV" tvg-logo=“https://logos.fandom.com/wiki/UTV_(Romania)?file=Photo-1467302546.jpg“,UTV
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8 
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Trace Mziki" tvg-logo=“https://www.satlogo.com/hires/tt/trace_fr_mziki.png“,Trace Mziki
+http://127.0.0.1:6878/ace/getstream?id=225e9f2805b4c2c27ec3869bddb3e87ca9ca72b6&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Kronehit TV" tvg-logo=“https://www.satlogo.com/hires/kk/krone_hit_at_tv.png“,Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Liuks" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_05189400_1415689143m.png“,Liuks
+http://ch01.spr24.net/783/mpegts?token=8s6KK4RnhdAZ5t
+#EXTINF:-1 group-title="Muzika" tvg-id="Liuks" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_05189400_1415689143m.png“,Liuks
+http://88.216.8.122:8080/liuks/index.m3u8
+#EXTINF:-1 group-title="Muzika" tvg-id="Liuks" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_05189400_1415689143m.png“,Liuks
+http://fr01.spr24.net/783/index.m3u8?token=rCEqTFvRhtEvXt 
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Zhara" tvg-logo=“https://www.satlogo.com/hires/zz/zhara_tv_ru.png“,Zhara
+http://178.124.183.12:80/hls/DXBSFZDTDG/bw1200000/playlist.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="THT Music" tvg-logo=“https://www.satlogo.com/hires/tt/tnt_ru_music.png“,THT Music
+http://178.124.183.12:80/hls/BCJGRB3KAX/bw1200000/playlist.m3u8
+
+#EXTINF:-1 group-title="Muzika" tvg-id="World fashion" tvg-logo=“https://www.satlogo.com/hires/ww/world_fashion_channel.png“,WorldFashion TV
+http://127.0.0.1:6878/ace/getstream?id=0bb548d3e2e3bcdec3a6c560ac9c2c6a0eb26406&.mp4
+
+#EXTINF:-1 group-title="Muzika" tvg-id="Fashion TV" tvg-logo=“http://static.filmon.com/assets/channels/21/big_logo.png“,World Fashion TV 1
+http://127.0.0.1:6878/ace/getstream?id=57f1d96d5a034c5ab5921d3b68fe1aab10fac5b3&.mp4
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="history" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_40411600_1380207747m.png“, History HD
+http://185.93.3.83:5010/play/a00v
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="dtx" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_65886400_1540726534m.png“, DTX
+http://94.177.136.29:7478/play/a03b
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat Nature" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_47867100_1540560384m.png“,Viasat Nature
+http://cdn7.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat Nature" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_47867100_1540560384m.png“,Viasat Nature
+http://88.119.220.3/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat Nature" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_47867100_1540560384m.png“,Viasat Nature
+http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat Nature" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_47867100_1540560384m.png“,Viasat Nature
+http://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_history_hd.png",Viasat History HD
+https://88.119.220.3/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_history_hd.png",Viasat History HD
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_history_hd.png",Viasat History HD
+http://cdn7.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_history_hd.png",Viasat History HD
+https://88.119.220.3/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_history_hd.png",Viasat History HD
+http://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_01316400_1540560324m.png",Viasat History (1)
+http://cdn7.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_01316400_1540560324m.png",Viasat History (1)
+http://88.119.220.3/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_01316400_1540560324m.png",Viasat History (1)
+http://213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_01316400_1540560324m.png",Viasat History (1)
+http://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_01316400_1540560324m.png",Viasat History (2)
+http://185.93.3.83:5010/play/a029
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat explorer" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_explore_hd.png",Viasat Explorer HD
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat explorer" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_explore_hd.png",Viasat Explorer HD
+http://cdn7.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat explorer" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_explore_hd.png",Viasat Explorer HD
+http://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat eplorer" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_96483200_1540559898m.png",Viasat Explorer
+http://cdn7.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat eplorer" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_96483200_1540559898m.png",Viasat Explorer
+http://88.119.220.3/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat eplorer" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_96483200_1540559898m.png",Viasat Explorer
+http://213.252.252.17/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat eplorer" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_96483200_1540559898m.png",Viasat Explorer
+http://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_57885000_1380193909m.png", TLC HD
+http://185.93.3.83:5010/play/a01e
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Entertainment" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_100_1491315508.png",Entertainment
+http://cdn7.tvplayhome.lt/live/eds/Entertainment/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Entertainment" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_100_1491315508.png",Entertainment
+http://88.119.220.3/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Entertainment" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_100_1491315508.png",Entertainment
+http://213.252.252.17/live/eds/Entertainment/HLS_encr/Entertainment.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Entertainment" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_100_1491315508.png",Entertainment
+http://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="National Geographic" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_936_1454495068.png",National Geographic HD
+http://cdn7.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="National Geographic" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_936_1454495068.png",National Geographic HD
+http://88.119.220.3/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="National Geographic" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_936_1454495068.png",National Geographic HD
+http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="National Geographic" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_936_1454495068.png",National Geographic HD
+http://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="National Geographic" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_936_1454495068.png",National Geographic HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="National Geographic" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_936_1454495068.png",National Geographic HD
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nat geo wild" tvg-logo=“https://www.brandeps.com/logo-download/N/National-Geographic-Wild-HD-logo-vector-01.svg",Nat Geo Wild HD
+http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="id xtra" tvg-logo=“https://www.satlogo.com/hires/ii/investigation_discovery_xtra_hd.png",ID Xtra HD
+http://185.93.3.83:5010/play/a01w
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="id" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_71603300_1380190855m.png",ID
+http://127.0.0.1:6878/ace/getstream?id=66e42339f713cb5118463468f62e08faedfbe6bc&.mp4
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Crime Investigation" tvg-logo=“https://en.m.wikipedia.org/wiki/Crime_%2B_Investigation_(Australian_TV_channel)#/media/File%3AC%26I_logo.svg",Crime Investigation
+http://89.187.170.171:8080/Crime_Investigation/mono.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="animal planet" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_61549600_1383657559m.png",Animal Planet HD
+http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="animal planet" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_61549600_1383657559m.png",Animal Planet HD
+http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Discovery Family" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png",Discovery Family
+http://89.187.170.171:8080/Discovery_Family/mono.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Discovery life" tvg-logo=“https://www.satlogo.com/hires/dd/discovery_life_us.png",Discovery Life HD
+http://89.187.170.171:8080/Discovery_Life/mono.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Discovery Science" tvg-logo=“https://www.satlogo.com/hires/dd/discovery_science_global_hd.png",Discovery Science HD
+http://89.187.170.171:8080/Discovery_Science/mono.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Discovery Science" tvg-logo=“https://www.satlogo.com/hires/dd/discovery_science_global_hd.png",Discovery Science HD
+http://94.177.136.29:7478/play/a039 
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Travel Channel" tvg-logo=“https://www.satlogo.com/hires/dd/discovery_science_global_hd.png",Travel Channel HD
+http://46.32.68.167/s/live/925/86.169.51.136/0/0.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Destination America" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/destinationamerica.png",Destination America
+http://89.187.170.171:8080/Destination_America/mono.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="Fine Living" tvg-logo=“https://www.satlogo.com/hires/ff/fine_living_network_emea.png",Fine Living
+http://94.177.136.29:7478/play/a03a
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="e!" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/eentertain.png",E! HD
+http://89.187.170.171:8080/E!/mono.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="outdoor channel" tvg-logo=“https://www.satlogo.com/hires/oo/outdoor_channel.png",Outdoor Channel HD
+http://89.187.170.171:8080/Outdoor_Channel/mono.m3u8
+
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="cw22" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/f/f8/CW22.PNG",CW22
+http://89.187.170.171:8080/CW/mono.m3u8
+
+#EXTINF:-1 group-title=" Naujienos " tvg-id=" bbcworld" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcworld.png ",BBC World News
+http://cdn7.tvplayhome.lt/live/eds/BBC/HLS_encr/index.m3u8
+#EXTINF:-1 group-title=" Naujienos " tvg-id=" bbcworld" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcworld.png ",BBC World News
+http://88.119.220.3/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 group-title=" Naujienos " tvg-id=" bbcworld" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcworld.png ",BBC World News
+http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8 
+#EXTINF:-1 group-title=" Naujienos " tvg-id=" bbcworld" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcworld.png ",BBC World News
+http://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title=" Naujienos " tvg-id="bbcworld" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcworld.png ",BBC World News
+http://127.0.0.1:6878/ace/getstream?id=c092caf6e38bd661f5f9ca1329ec0be1284cb5e5&.mp4
+#EXTINF:-1 group-title=" Naujienos " tvg-id=" bbcworld" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcworld.png ",BBC World News
+http://89.187.170.171:8080/BBC_World_News/mono.m3u8
+
+#EXTINF:-1 group-title=" Naujienos " tvg-id="bbcamerica" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bbcamerica.png",BBC America HD
+http://89.187.170.171:8080/BBC_America/mono.m3u8
+
+#EXTINF:-1 group-title=" Naujienos " tvg-id="cnbc" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/cnbc.png",CNBC HD
+http://89.187.170.171:8080/CNBC/mono.m3u8
+
+#EXTINF:-1 group-title=" Naujienos " tvg-id="bloomberg" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/bloomberg.png",Bloomberg HD
+http://89.187.170.171:8080/Bloomberg/mono.m3u8
+
+#EXTINF:-1 group-title=" Naujienos " tvg-id="cnn" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/cnn.png",CNN HD
+http://89.187.170.171:8080/CNN/mono.m3u8
