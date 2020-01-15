@@ -1,0 +1,233 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTTelevizijaHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLTULRT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT+ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTKULTURAHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_307_1538382450.png", LRT+
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTKULTURA&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Lituanica" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_325_1421217568.png", LRT Lituanica
+http://cdn7.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Info TV" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_34085600_1418495360m.png",Info TV HD 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINFOTVHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Info TV" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_34085600_1418495360m.png",Info TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINFOTV&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6b/LNK_HD.png",LNK HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FlnkHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LNK" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_301_1520339152.png", LNK
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Flnk&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/tv3hd.png",TV3 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3LTHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV3" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_65492700_1578497500m.png",TV3
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3LT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BTV_HD.png/900px-BTV_HD.png",BTV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBTVHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="BTV" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_305_1520956000.png",BTV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBTV&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://satsis.info/uploads/posts/2019-01/1548844042_www.satsis.info__tv6-hd.jpg",TV6 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV6LTHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV6" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_304_1418375280.png",TV6
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV6LT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/TV1_HD.png",TV1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LTHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV1" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_302_1421217703.png",TV1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Lietuvos ryto televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_318_1539885851.png",Lietuvos Rytas HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIETUVOSRYTASTVHD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="Lietuvos ryto televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_318_1539885851.png",Lietuvos Rytas
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIETUVOSRYTASTV&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png.webp",TV8 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV8HDLT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="TV8" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_545_1418375323.png",TV8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV8LT&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_309_1418375451.png", Balticum
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumtv&login=taras777&key=3pp54ZC 
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Auksinis" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_308_1418375359.png", Balticum Auksinis
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBALTICUMAUKSINIS&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Platinum" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_998_1490874616.png", Balticum Platinum
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBaltikumPlatinumTV&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Balticum Platinum" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_998_1490874616.png", Balticum Platinum HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBALTICUMPLATINUMHD&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_977_1490875718.png", TV1000
+http://cdn7.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
+http://cdn7.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
+http://cdn7.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Fox" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFoxHD&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Fox" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFox&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Fox_life" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox life
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFoxLife&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="SUNDANCE_TV",SUNDANCE TV HD (EU)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSundanceHDPL&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="SUNDANCE_TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sundance.png",SUNDANCE TV HD (US)
+http://89.187.170.171:8080/SUNDANCE/mono.m3u8?token=ADM1-1575133015-2e4f36ea26afd08e9147422acd2a58320c67f9f1 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="AMC",AMC HD (EU)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAMCRUS&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="AMC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/amc.png",AMC HD (US)
+http://89.187.170.171:8080/AMC/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO",HBO HD (EU)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHBOHDPL&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png",HBO HD (US)
+http://89.187.170.171:8080/HBO/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png",AHOME of HBO HD 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Comedy Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png",Comedy Central HD
+http://89.187.170.171:8080/Comedy_Central/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Paramount Comedy",Paramount Comedy
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FParamountComedy&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="IFC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ifc.png",IFC HD
+http://89.187.170.171:8080/IFC/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Hallmark" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hallmark.png",Hallmark HD
+http://89.187.170.171:8080/Hallmark/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Epic Drama" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_31048800_1539756731m.png", Epic Drama HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEpicDramaHD&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Epic Drama" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_31048800_1539756731m.png", Epic Drama
+http://88.119.220.3/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id=" " tvg-logo="https://cdn.imgbin.com/10/5/6/imgbin-logo-the-movies-hollywood-film-premiere-senior-scams-kqp6fL5rLjEFQa4HP9C5gDfBW.jpg", 24/7 Hollywood Movies 1
+http://127.0.0.1:6878/ace/getstream?id=b7c1b501bcd27df0430ae609ca5028223248e744&.mp4 
+
+#EXTINF:-1 group-title="Filmai" tvg-id=" " tvg-logo="https://cdn.imgbin.com/10/5/6/imgbin-logo-the-movies-hollywood-film-premiere-senior-scams-kqp6fL5rLjEFQa4HP9C5gDfBW.jpg", 24/7 Hollywood Movies 2
+http://127.0.0.1:6878/ace/getstream?id=71d6d1ea6d7597ab7cb84db1692666fbc65db010&.mp4 
+
+#EXTINF:-1 group-title="Filmai" tvg-id=" " tvg-logo="https://cdn.imgbin.com/23/10/14/imgbin-friends-logo-friends-logo-uR64a2xs9vEiSy55qwubjVEgq.jpg", 24/7 Friends
+http://127.0.0.1:6878/ace/getstream?id=43c600c26c9de956f8392a425901a6aa1046b0ed&.mp4 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Paramount" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/paramount.png", Paramount HD
+http://89.187.170.171:8080/Paramount/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png", Showtime 2 HD
+http://89.187.170.171:8080/Showtime_2/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime next" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9666/showtimenexttv.png", Showtime Next HD
+http://89.187.170.171:8080/Showtime_Next/mono.m3u8
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime extreme" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87368/showtimeextremetv_colordark.png",Showtime Extreme HD
+http://89.187.170.171:8080/Showtime_Extreme/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Showtime Showcase" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/SHOWTIMESHOWCASE.png",Showtime Showcase HD
+http://89.187.170.171:8080/Showtime_Showcase/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="SonyMovies" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_957_1490876156.png", SonyMovies HD
+http://89.187.170.171:8080/SonyMovies/mono.m3u8 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Sony channel", Sony Channel HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSONYCHANNELHDLT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Sony channel",Sony Channel 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSonyLT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Sony turbo", Sony TURBO 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSonyTurboLT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Sony turbo", Sony TURBO HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSONYTURBOHDLT&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="Starz Edge" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/2514/starzedgetelevision.png", Starz Edge HD
+http://89.187.170.171:8080/Starz_Edge/mono.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang_en" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_88_1467110641.png",Boomerang EN
+http://89.187.170.171:8080/Boomerang/mono.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_88_1467110641.png",Boomerang Ru
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2   
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerangHDPL&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerang&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidzoneHD&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=taras777&key=3pp54ZC 
+
+logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Channel" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_905_1491379607.png“,Disney Channel
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyCHeuropa&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyJunior&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonEU&login=taras777&key=3pp54ZC
+
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nick" tvg-logo=“https://img.favpng.com/3/3/15/nickelodeon-logo-television-show-nick-jr-png-favpng-v10kmKSnLJDV6YGnYF6ekDNfZ.jpg“,Nick HD
+http://89.187.170.171:8080/Nick/mono.m3u8 
+
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“, NickToons HD
+http://89.187.170.171:8080/Nick_Toons/mono.m3u8
+
+
+#EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickToon&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickJr&login=taras777&key=3pp54ZC
+
+#EXTINF:0 group-title="Animacija" tvg-id="Cartoon Network",Cartoon Network
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCartoonNetworkNTV&login=taras777&key=3pp54ZC
+
+#EXTINF:0 group-title="Animacija" tvg-id="JimJam",JimJam
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FJimJam&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Sportas",3Sport HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Sportas",3Sport 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportBaltic&login=taras777&key=3pp54ZC
