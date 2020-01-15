@@ -92,7 +92,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FF
 #EXTINF:-1 group-title="Filmai" tvg-id="Fox_life" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox life
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFoxLife&login=taras777&key=3pp54ZC 
 
-#EXTINF:-1 group-title="Filmai" tvg-id="SUNDANCE_TV",SUNDANCE TV HD (EU)
+#EXTINF:-1 group-title="Filmai" tvg-id="SUNDANCE_TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sundance.png",SUNDANCE TV HD (EU)
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSundanceHDPL&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Filmai" tvg-id="SUNDANCE_TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sundance.png",SUNDANCE TV HD (US)
@@ -110,7 +110,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FH
 #EXTINF:-1 group-title="Filmai" tvg-id="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png",HBO HD (US)
 http://89.187.170.171:8080/HBO/mono.m3u8 
 
-#EXTINF:-1 group-title="Filmai" tvg-id="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png",AHOME of HBO HD 
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO",AHOME of HBO HD 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=taras777&key=3pp54ZC 
 
 #EXTINF:-1 group-title="Filmai" tvg-id="Comedy Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png",Comedy Central HD
@@ -182,7 +182,7 @@ http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
 #EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerangHDPL&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang HD
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerang&login=taras777&key=3pp54ZC 
 
 #EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone HD
@@ -200,19 +200,17 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FD
 #EXTINF:-1 group-title="Animacija" tvg-id="Disney Junior" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_906_1454571629.png“,Disney Junior
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyJunior&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon HD
+#EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon",Nickelodeon HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Animacija" tvg-id="Nickelodeon" tvg-logo=“https://www.satlogo.com/hires/nn/nickelodeon_us.png“,Nickelodeon LT
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonEU&login=taras777&key=3pp54ZC
-
 
 #EXTINF:-1 group-title="Animacija" tvg-id="Nick" tvg-logo=“https://img.favpng.com/3/3/15/nickelodeon-logo-television-show-nick-jr-png-favpng-v10kmKSnLJDV6YGnYF6ekDNfZ.jpg“,Nick HD
 http://89.187.170.171:8080/Nick/mono.m3u8 
 
 #EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“, NickToons HD
 http://89.187.170.171:8080/Nick_Toons/mono.m3u8
-
 
 #EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickToon&login=taras777&key=3pp54ZC
@@ -226,8 +224,8 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FC
 #EXTINF:0 group-title="Animacija" tvg-id="JimJam",JimJam
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FJimJam&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Sportas",3Sport HD
+#EXTINF:-1 group-title="Sportas" tvg-id="tvplaysport",TVPlaySport HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Sportas",3Sport 
+#EXTINF:-1 group-title="Sportas" tvg-id="tvplaysport",TVPlaySport 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportBaltic&login=taras777&key=3pp54ZC
