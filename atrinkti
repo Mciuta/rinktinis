@@ -190,16 +190,16 @@ http://89.187.170.171:8080/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Animacija" tvg-id="Boomerang" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_88_1467110641.png",Boomerang Ru
 http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2   
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang1",Boomerang HD
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerangHDPL&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang1",Boomerang 
+#EXTINF:-1 group-title="Animacija" tvg-id="Boomerang",Boomerang 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerang&login=taras777&key=3pp54ZC 
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone HD
+#EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidzoneHD&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone
+#EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=taras777&key=3pp54ZC 
 
 #EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-
@@ -229,7 +229,7 @@ http://89.187.170.171:8080/Nick_Toons/mono.m3u8
 #EXTINF:-1 group-title="Animacija" tvg-id="NickToons" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87406/nicktoonstv.png“,Nicktoons
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickToon&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Nickjr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
+#EXTINF:-1 group-title="Animacija" tvg-id="nick-jr" tvg-logo=“https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/13659859_NICKJR.PNG“,Nick JR
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickJr&login=taras777&key=3pp54ZC
 
 #EXTINF:0 group-title="Animacija" tvg-id="Cartoon Network",Cartoon Network
@@ -283,7 +283,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F3
 #EXTINF:-1 group-title="Muzika" tvg-id="vh1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_68_1418121432.png“,VH1 HD
 http://89.187.170.171:8080/VH1/mono.m3u8 
 
-#EXTINF:-1 group-title="Muzika" tvg-id="vh1",VH1
+#EXTINF:-1 group-title="Muzika" tvg-id="vh1-european",VH1
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVH1Europen&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Muzika" tvg-id="vh1 classic",VH1 Classic
@@ -304,7 +304,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-us
 #EXTINF:-1 group-title="Muzika" tvg-id="mtv_hd",MTV HD (2)
 http://89.187.170.171:8080/MTV/mono.m3u8 
 
-#EXTINF:-1 group-title="Muzika" tvg-id="mtv_classic" tvg-logo=“https://en.wikipedia.org/wiki/MTV_Classic_(British_and_Irish_TV_channel)#/media/File:MTV_Classic_2017_logo.svg“,MTV Classic
+#EXTINF:-1 group-title="Muzika" tvg-id="mtv-classic" tvg-logo=“https://en.wikipedia.org/wiki/MTV_Classic_(British_and_Irish_TV_channel)#/media/File:MTV_Classic_2017_logo.svg“,MTV Classic
 http://89.187.170.171:8080/MTV_Classic/mono.m3u8 
 
 #EXTINF:-1 group-title="Muzika" tvg-id="mtv_dance",MTV Dance
@@ -395,7 +395,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FN
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="nat geo wild",Nat Geo Wild
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWild&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="id xtra" tvg-logo=“https://www.satlogo.com/hires/ii/investigation_discovery_xtra_hd.png",ID Xtra HD
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-id-xtra" tvg-logo=“https://www.satlogo.com/hires/ii/investigation_discovery_xtra_hd.png",ID Xtra HD
 http://185.93.3.83:5010/play/a01w
 
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="id",ID HD
@@ -440,7 +440,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FT
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="Destination America" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/destinationamerica.png",Destination America
 http://89.187.170.171:8080/Destination_America/mono.m3u8
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="Fine Living",Fine Living
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="fine-living-network",Fine Living
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFineLivingHDXTRA&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="e!" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/eentertain.png",E! HD
@@ -466,3 +466,5 @@ http://89.187.170.171:8080/Bloomberg/mono.m3u8
 
 #EXTINF:-1 group-title=" Naujienos " tvg-id="cnn" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/cnn.png",CNN HD
 http://89.187.170.171:8080/CNN/mono.m3u8
+
+
