@@ -80,10 +80,10 @@ http://cdn7.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
 http://cdn7.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
 
-#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium", 3Film HD
+#EXTINF:-1 group-title="Filmai" tvg-id="tv3-film", 3Film HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium", 3Film
+#EXTINF:-1 group-title="Filmai" tvg-id="tv3-film", 3Film
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumLT&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Filmai" tvg-id="Fox" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox HD
@@ -238,19 +238,19 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FC
 #EXTINF:0 group-title="Animacija" tvg-id="JimJam",JimJam
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FJimJam&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Sportas" tvg-id="tvplay sports",TVPlay Sports HD
+#EXTINF:-1 group-title="Sportas" tvg-id="tv3-sport",TVPlay Sports HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Sportas" tvg-id="tvplay sports",TVPlay Sports 
+#EXTINF:-1 group-title="Sportas" tvg-id="tv3-sport",TVPlay Sports 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportBaltic&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Sportas" tvg-id="TVPlay Sports plius", TVPlay Sports plius HD
+#EXTINF:-1 group-title="Sportas" tvg-id="tv3-sport-2", TVPlay Sports plius HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVPLAYSPORTPLUSSD&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Sportas" tvg-id="Sport1" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_336_1467180549.png“, Sport1
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSPORT1LT&login=taras777&key=3pp54ZC
 
-#EXTINF:0 group-title="Sportas" tvg-id="setanta sports 1",Setanta Sports 1 HD
+#EXTINF:0 group-title="Sportas" tvg-id="setanta-sports",Setanta Sports 1 HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaHD&login=taras777&key=3pp54ZC
  
  #EXTINF:0 group-title="Sportas" tvg-id="setanta sports 2",Setanta Sports 2 HD
@@ -355,10 +355,10 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FH
 #EXTINF:-1 group-title="Pažintiniai",History
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHistory&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="dtx", DTX HD
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-dtx", DTX HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fdtxhd&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="dtx" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_65886400_1540726534m.png“, DTX
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-dtx" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_65886400_1540726534m.png“, DTX
 http://94.177.136.29:7478/play/a03b 
 
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat Nature",Viasat Nature
@@ -370,17 +370,17 @@ https://88.119.220.3/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat History" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_history_hd.png",Viasat History 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatHistoryNTV&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat explorer" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_explore_hd.png",Viasat Explorer CEE
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-explore" tvg-logo=“https://www.satlogo.com/hires/vv/viasat_explore_hd.png",Viasat Explorer CEE
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat explorer",Viasat Explorer 
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-explore",Viasat Explorer 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatExplorerNTV&login=taras777&key=3pp54ZC
 
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc", TLC HD
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc-pan", TLC HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTLCHD&login=taras777&key=3pp54ZC
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc", TLC
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc-pan", TLC
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTLC&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="Entertainment" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_100_1491315508.png",Entertainment
