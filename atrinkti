@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLRTTelevizijaHD&login=taras777&key=3pp54ZC 
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Televizija" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
+#EXTINF:-1 group-title="Lietuviški" tvg-id="LRT" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLTULRT&login=taras777&key=3pp54ZC 
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="LRT Plius" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_306_1488445569.png", LRT+ HD
