@@ -466,5 +466,3 @@ http://89.187.170.171:8080/Bloomberg/mono.m3u8
 
 #EXTINF:-1 group-title=" Naujienos " tvg-id="cnn" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/cnn.png",CNN HD
 http://89.187.170.171:8080/CNN/mono.m3u8
-
-
