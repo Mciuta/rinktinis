@@ -80,8 +80,11 @@ http://cdn7.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Action" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_976_1490875823.png", TV1000 Action
 http://cdn7.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
 
-#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium" tvg-logo="https://content.tvprograma.lt/logo/220x80_0_10648100_1575362815m.png", 3Film HD
-http://cdn7.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium", 3Film HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=taras777&key=3pp54ZC
+
+#EXTINF:-1 group-title="Filmai" tvg-id="TV1000 Premium", 3Film
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumLT&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Filmai" tvg-id="Fox" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fox.png.webp", Fox HD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFoxHD&login=taras777&key=3pp54ZC
@@ -110,8 +113,12 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FH
 #EXTINF:-1 group-title="Filmai" tvg-id="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png",HBO HD (US)
 http://89.187.170.171:8080/HBO/mono.m3u8 
 
-#EXTINF:-1 group-title="Filmai" tvg-id="HBO",AHOME of HBO HD 
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO",AHOME of HBO 1 HD 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=taras777&key=3pp54ZC 
+
+#EXTINF:-1 group-title="Filmai" tvg-id="HBO",AHOME of HBO 2 HD 
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=taras777&key=3pp54ZC 
+
 
 #EXTINF:-1 group-title="Filmai" tvg-id="Comedy Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png",Comedy Central HD
 http://89.187.170.171:8080/Comedy_Central/mono.m3u8 
