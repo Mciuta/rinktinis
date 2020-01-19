@@ -202,8 +202,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK
 #EXTINF:-1 group-title="Animacija" tvg-id="kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=taras777&key=3pp54ZC 
 
-#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-
-logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=taras777&key=3pp54ZC 
 
 #EXTINF:-1 group-title="Animacija" tvg-id="Disney Channel" tvg-logo=“https://cdn.tvstart.com/img/channel/logo_64_905_1491379607.png“,Disney Channel
@@ -466,5 +465,3 @@ http://89.187.170.171:8080/Bloomberg/mono.m3u8
 
 #EXTINF:-1 group-title=" Naujienos " tvg-id="cnn" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/cnn.png",CNN HD
 http://89.187.170.171:8080/CNN/mono.m3u8
-
-
