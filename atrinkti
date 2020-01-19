@@ -202,6 +202,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK
 #EXTINF:-1 group-title="Animacija" tvg-id="Kidzone" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_583_1454492658.png", Kidzone
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=taras777&key=3pp54ZC 
 
+#EXTINF:-1 group-title="Animacija" tvg-id="Disney XD" tvg-
 logo=“https://cdn.tvstart.com/img/channel/logo_64_907_1454492863.png“, Disney XD
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=taras777&key=3pp54ZC 
 
@@ -297,7 +298,6 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM
 #EXTINF:-1 group-title="Muzika" tvg-id="mtv_live" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/mtv_live.png“,MTV Live
 http://89.187.170.171:8080/MTV_LIVE/mono.m3u8?token=ADM1-1575133015-2e4f36ea26afd08e9147422acd2a58320c67f9f1 
 
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8 
 #EXTINF:-1 group-title="Muzika" tvg-id="mtv_hd",MTV HD (1)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1 
 
@@ -466,4 +466,5 @@ http://89.187.170.171:8080/Bloomberg/mono.m3u8
 
 #EXTINF:-1 group-title=" Naujienos " tvg-id="cnn" tvg-logo=“https://cdn.tvpassport.com/image/station/240x135/cnn.png",CNN HD
 http://89.187.170.171:8080/CNN/mono.m3u8
+
 
