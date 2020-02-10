@@ -361,7 +361,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fdtxhd&login=taras777&key=3pp54ZC
 
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-dtx" tvg-logo=“https://content.tvprograma.lt/logo/220x80_0_65886400_1540726534m.png“, DTX
-http://94.177.136.29:7478/play/a03b 
+http://176.101.120.17:1234/udp/239.255.128.122:1234
 
 #EXTINF:-1 group-title="Pažintiniai" tvg-id="Viasat Nature",Viasat Nature
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureNTV&login=taras777&key=3pp54ZC
