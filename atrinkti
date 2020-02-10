@@ -342,6 +342,9 @@ http://127.0.0.1:6878/ace/getstream?id=225e9f2805b4c2c27ec3869bddb3e87ca9ca72b6&
 #EXTINF:-1 group-title="Muzika" tvg-id="Kronehit TV" tvg-logo=“https://www.satlogo.com/hires/kk/krone_hit_at_tv.png“,Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8  
 
+#EXTINF:-1 group-title="Muzika" tvg-id="Kronehit TV" tvg-logo=“https://www.satlogo.com/hires/kk/krone_hit_at_tv.png“,Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
 #EXTINF:-1 group-title="Muzika" tvg-id="Liuks",Liuks
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLIUKS&login=taras777&key=3pp54ZC
 
